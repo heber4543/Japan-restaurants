@@ -168,6 +168,5 @@ df = pd.DataFrame({
 print (df)
 
 # se exporta el dataframe a un archivo csv
-#df.to_csv('yelp_mexican_restaurants.csv', index=False, path_or_buf='donde se guarda')
-
-# %%
+#df.to_csv('mexican_restaurants.csv', index=False, path_or_buf='donde/se/guarda')
+#df.to_excel('/ruta/a/tu/directorio/mexican_restaurants.xlsx', index=False)
