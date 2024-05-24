@@ -4,6 +4,8 @@ Script to scrape *tabelog.com*
 ## Input
 This code receives as input a text file (.txt) with the comma separated URL's of the pages you need to scrape from tabelog.com
 
+On line 26, in the *path* variable you must enter the path to the text file, inside the double quotes
+
 ## Output
 This code returns an excel or comma-separated file (your choice) with data about restaurants or establishments in tablelog.com.
 
