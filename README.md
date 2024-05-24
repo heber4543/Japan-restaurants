@@ -1,10 +1,10 @@
 # webscraping
-## Script to scrape tabelog.com
+Script to scrape tabelog.com
 
-### Input
+## Input
 This code receives as input a text file (.txt) with the comma separated URL's of the pages you need to scrape from tabelog.com
 
-### Output
+## Output
 This code returns an excel or comma-separated file (your choice) with data about restaurants or establishments in tablelog.com.
 The table headers are: 
 - **restaurants:** this column contains the name of the establishment
