@@ -6,6 +6,7 @@ This code receives as input a text file (.txt) with the comma separated URL's of
 
 ## Output
 This code returns an excel or comma-separated file (your choice) with data about restaurants or establishments in tablelog.com.
+
 The table headers are: 
 - **restaurants:** this column contains the name of the establishment
 - **link:** this column contains the link of the establishment in tablelog
