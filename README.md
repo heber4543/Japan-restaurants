@@ -3,6 +3,7 @@ Script to scrape *tabelog.com*
 
 ## Input
 This code receives as input a text file (.txt) with the comma separated URL's of the pages you need to scrape from tabelog.com
+
 *'restaurantes_zonas.txt'* is an example of the input text file
 
 On line 26, in the *path* variable you must enter the path to the text file, inside the double quotes
